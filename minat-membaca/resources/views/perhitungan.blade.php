@@ -10,7 +10,7 @@
 
 <!--Content-->
 <!--Introduction-->
-<div class="bgg container-fluid m-0 p-3 row" style="background-color: #EFEEF4; height:400px;">
+<div class="bgg container-fluid m-0 p-5 row" style="background-color: #EFEEF4; height:400px;">
     <div class="col-sm-12 mt-5" style="display:flex; justify-content:center; align-items:center;">
         <div class="pb-5">
             <h1 class="text-dark">Perhitungan</h1>
@@ -19,7 +19,7 @@
 </div>
 
 <!--Metode-->
-<div class="container-fluid m-0 p-3 row">
+<div class="container-fluid m-0 p-5 row">
     <div class="col-sm-12 float-left">
         <div class="pt-4">
             <h2 class="text-dark">Apa Metode yang Digunakan ?</h2>
@@ -45,7 +45,7 @@
 </div>
 
 <!--Contoh Perhitungan-->
-<div class="container-fluid m-0 p-3 row">
+<div class="container-fluid m-0 p-5 row" style="background-color: #EFEEF4;">
     <div class="col-sm-12 float-left">
         <div>
             <h2 class="text-dark">Contoh Perhitungan</h2>
@@ -61,7 +61,7 @@
     </div>
 </div>
 
-<div class="container-fluid m-0 p-3 row">
+<div class="container-fluid m-0 p-5 row" style="background-color: #EFEEF4;">
     <div class="col-sm-12 float-left">
         <div class="pt-3">
             <p class="text-dark" style="text-align:justify">
@@ -74,7 +74,7 @@
     </div>
 </div>
 
-<div class="container-fluid m-0 p-3 row">
+<div class="container-fluid m-0 p-5 row" style="background-color: #EFEEF4;">
     <div class="col-sm-12 float-left">
         <div class="pt-3">
             <p class="text-dark" style="text-align:justify">
@@ -87,7 +87,7 @@
     </div>
 </div>
 
-<div class="container-fluid m-0 p-3 row">
+<div class="container-fluid m-0 p-5 row" style="background-color: #EFEEF4;">
     <div class="col-sm-12 float-left">
         <div class="pt-3">
             <p class="text-dark" style="text-align:justify">
