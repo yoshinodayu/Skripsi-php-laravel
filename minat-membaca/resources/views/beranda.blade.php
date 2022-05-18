@@ -3,15 +3,15 @@
 @section('container')
 <!--Content-->
 <!--Introduction-->
-<div class="container-fluid m-0 p-0 row" style="background-color: #EFEEF4;">
-    <div class="col-sm-4 mt-3 text-center" style="align-self:center;">
+<div class="container-fluid m-0 p-5 row" style="background-color: #EFEEF4;">
+    <div class="col-sm-4" style="align-self:center;">
         <img src="images/Newspaper.svg" class="w-75" />
     </div>
-    <div class="col-sm-8 mt-5">
+    <div class="col-sm-8 float-left">
         <div>
             <h2 class="text-dark">Minat Anak Muda Dalam Membaca Berita</h2>
         </div>
-        <div class="pt-3 pb-5">
+        <div class="pt-3">
             <p class="text-dark" style="text-align:justify">
                 Berdasarkan studi dari “Most Littered Nation In The World” yang dilakukan oleh Central Connecticut State University pada tahun 2016,
                 Indonesia menempati peringkat ke-60 dari 61 negara mengenai minat membaca. Padahal setiap harinya, berita bisa ditemukan di televisi, di
@@ -26,12 +26,12 @@
 </div>
 
 <!--Berita-->
-<div class="container-fluid m-0 p-0 row">
-    <div class="col-sm-8 mt-5 pl-5 float-left">
-        <div class="pl-5">
+<div class="container-fluid m-0 p-5 row">
+    <div class="col-sm-8 float-left">
+        <div>
             <h2 class="text-dark">Apa itu Berita ?</h2>
         </div>
-        <div class="pl-5 pt-3 pb-5">
+        <div class="pt-3">
             <p class="text-dark" style="text-align:justify">
                 Sebelum kita masuk ke dalam penjelasan mengenai penelitian ini, perlu kita ketahui terlebih dahulu apa itu berita. Menurut Mickhel V Charniey,
                 “berita adalah laporan tercepat dari suatu peristiwa atau kejadian yang faktual, penting, dan menarik bagi sebagian pembaca serta menyangkut
@@ -43,21 +43,21 @@
             </p>
         </div>
     </div>
-    <div class="col-sm-4 mt-3 text-center" style="align-self:center;">
+    <div class="col-sm-4 mt-3" style="align-self:center;">
         <img src="images/Announcer.svg" class="w-75" />
     </div>
 </div>
 
 <!--Manfaat Berita-->
-<div class="container-fluid m-0 p-0 row" style="background-color: #EFEEF4;">
-    <div class="col-sm-4 mt-3 text-center" style="align-self:center;">
+<div class="container-fluid m-0 p-5 row" style="background-color: #EFEEF4;">
+    <div class="col-sm-4" style="align-self:center;">
         <img src="images/Advantages.svg" class="w-75" />
     </div>
-    <div class="col-sm-8 mt-5 pr-5 float-left">
+    <div class="col-sm-8 float-left">
         <div class="pr-5">
             <h2 class="text-dark">Apa Manfaat Membaca Berita ?</h2>
         </div>
-        <div class="pr-5 pt-3 pb-5">
+        <div class="pr-5 pt-3">
             <ul>
                 <li>
                     <p class="font-weight-bold">Menambah Wawasan</p>
